@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "D:\\Coding\\My Web\\Web3"
+		},
+		{
+			"path": "D:\\Coding\\My Web\\Web2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "aStar"
+	}
+}
